@@ -21,7 +21,7 @@
 4. **Set Up TexMod**  
    - Download and extract the TexMod tool from the repository or included ZIP file.
 5. **Download and Add Texture Mods**  
-   - Download the desired texture mods from the [Releases](#) section.  
+   - Download the desired texture mods from the [Releases](https://github.com/Livrennamy/HDClementineTextures/releases) section.  
    - Extract the mods into the same folder as `TexMod.exe`. (Optional: Organize mods into a `Mods` subfolder.)
 6. **Launch the Game with TexMod**  
    - Run `TexMod.exe` as Administrator.  
