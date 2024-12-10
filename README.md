@@ -1,4 +1,4 @@
-![HD Clementine Textures](https://i.imgur.com/fmJzquJ.png)
+![HD Clementine Textures](https://i.imgur.com/z0Qqy3H.png)
 # HD Clementine Textures
 **HDClementineTextures** is a high-definition texture pack for *Phantasy Star Universe: Clementine* private server, enhancing the game’s visuals with sharper environments, characters, and UI elements for a better gameplay experience.
 
@@ -28,3 +28,5 @@
    - Click **Target Application** and select the custom resolution `.exe` file you copied earlier.  
    - Switch to the **Package Mode** tab, then click the folder icon and load the texture mods you downloaded from Releases.  
    - Once your mods are listed under *Package Name*, click **Run** to launch the game with HD textures.
+### **Example With English Mod**
+![Example](https://i.imgur.com/N7MVWPT.png)
