@@ -18,6 +18,8 @@
 3. **Optional: Install Floor Reader Update**  
    - Extract the `PSUFR-HDUpdate` and run Floor Reader as normal.  
    *(Note: `Once Pluvio release an official update with the change the file will be removed from the GitHub`)*
+   - Open `PSUFR_config` file in Notepad and edit the process name if needed.
+   *(Example: `PSUC 1920x1080.exe` changed to `PSUC 2560x1440.exe`
 4. **Set Up TexMod**  
    - Download and extract the TexMod tool from the repository or included ZIP file.
 5. **Download and Add Texture Mods**  
